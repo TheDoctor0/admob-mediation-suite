@@ -1,0 +1,40 @@
+{
+  "name": "admob-mediation-suite",
+  "version": "0.0.1",
+  "description": "Dynamic AdMob Mediation Manager for Android & iOS",
+  "cordova": {
+    "id": "admob-mediation-suite",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swaplab-engine/admob-mediation-suite.git"
+  },
+  "files": [
+    "src/",
+    "plugin.xml",
+    "README.md",
+    "package.json",
+    "LICENSE"
+  ],
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "cordova",
+    "admob",
+    "google",
+    "ads",
+    "nextgen",
+    "cordova-admob"
+  ],
+  "author": "EMI INDO",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/swaplab-engine/admob-mediation-suite/issues"
+  },
+  "homepage": "https://github.com/swaplab-engine/admob-mediation-suite#readme"
+}
